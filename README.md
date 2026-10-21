@@ -15,9 +15,9 @@
 
 ### 🔬 Overview & Focus
 
-I am a structural biologist and biophysicist with a Ph.D. from the **Indian Institute of Science (IISc), Bangalore**. My research deciphers the molecular architecture and dynamics of macromolecular assemblies, focusing on the mechanics of **eukaryotic translation initiation** and the stabilization of **conformationally flexible and aggregation-prone proteins**.
+I am a structural biologist and biophysicist with a Ph.D. from the **Indian Institute of Science (IISc), Bangalore**. My doctoral research focused on the molecular architecture and dynamics of macromolecular assemblies, especially on the mechanics of **eukaryotic translation initiation** and the stabilization of **conformationally flexible and aggregation-prone proteins**.
 
-My work bridges atomic-resolution experimental determination and computational modeling:
+My work bridges wet-lab biology experiment with atomic-resolution experimental determination and computational modeling:
 - **Macromolecular Cryo-EM & Translation Initiation:** Contributed to one of the first high-resolution cryo-EM structures of the model wheat 80S ribosome (co-author) and resolved a yeast translation initiation complex stalled at a near-cognate AUC start codon (co-first author), establishing molecular determinants of start-site fidelity.
 - **Translational Dynamics & Cap-Binding Regulation:** Discovered redox-dependent post-translational regulation mechanisms in plant cap-binding isoforms.
 - **Dry-Lab / Wet-Lab Synergy:** Combining single-particle cryo-EM data processing, molecular dynamics (MD) simulations in GROMACS, and computational workflows to dissect complex RNA-protein interfaces.
