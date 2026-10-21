@@ -4,9 +4,9 @@
 ### Structural Biologist & Computational Biophysicist
 **High-Resolution Cryo-EM • mRNA Translation Mechanics • Molecular Dynamics & Biomolecular Modeling**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Publications-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com)
-[![ORCID](https://img.shields.io/badge/ORCID-Profile-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prafful-sharma-46b123168)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Publications-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=MR-J1J0AAAAJ&hl=en)
+[![ORCID](https://img.shields.io/badge/ORCID-Profile-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-6562-7734)
 [![Email](https://img.shields.io/badge/Email-prafful%40iisc.ac.in-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prafful@iisc.ac.in)
 
 </div>
@@ -31,9 +31,10 @@ My work bridges atomic-resolution experimental determination and computational m
 | Category | Skills & Tools |
 | :--- | :--- |
 | **Structural Biology** | Single-Particle Cryo-EM, Cryo-ET, X-ray Crystallography |
-| **Cryo-EM Processing** | RELION, CryoSPARC, cryoDRGN, MotionCor2, CTFFIND4, ChimeraX, PyMOL, Coot, Phenix, Refmac, Doppio |
+| **Cryo-EM Processing** | RELION, CryoSPARC, EMAN, cisTEM, cryoDRGN |
 | **Biomolecular Modeling** | Molecular Dynamics (GROMACS, AMBER), AlphaFold, ESMFold, De novo protein generation, Docking |
-| **Biophysics & Wet-Lab** | Protein/RNA Reconstitution, SEC-MALS, CD, DLS, Thermal Shift Assays (DSF), PTM Characterization |
+| **Biophysics & Wet-Lab** |  Purification techniques (IMAC, IEX, RP, SEC), ITC, BLI, SPR, CD, DLS, Thermal Shift Assays (DSF), PTM Characterization |
+| **Structural Bioinformatics** | Bioinformatics: Data curation (UniProt, NCBI, PDB, EMDB, EMPIAR, etc.), model building (protein-RNA), and refinement (COOT, Phenix, CCPEM, Refmac, ChimeraX, LocScale, ISOLDE, Doppio, PyMOL, VMD, AlphaFold, BioEmu), sequence and phylogenetic analysis (Jalview, MEGA).
 | **Scientific Computing** | Python, Shell/Bash, Linux HPC handling proficiency, Git, LLMs and Agentic AI usage |
 
 ---
